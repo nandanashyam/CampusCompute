@@ -1,0 +1,16 @@
+# build output
+*.o
+campuscompute
+
+# runtime output
+campuscompute.log
+
+# editor / OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# submission artifacts
+*.zip
+*.pdf
